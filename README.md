@@ -1,2 +1,8 @@
 # Space-Invaders-with-Python
-The classic game of space invaders made with python.
+
+Python 3.9.7
+
+Pygame 2.1.2
+
+SDL 2.0.18
+
